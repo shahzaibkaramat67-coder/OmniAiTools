@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /pricing
+Disallow: /dashboard
+Disallow: /tools/
+Disallow: /history
+Disallow: /settings
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://omniaitool.com/sitemap.xml
